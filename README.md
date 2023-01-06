@@ -1,3 +1,5 @@
-# 자바(JAVA) CLI 주소록 관리 프로그램(Address book management program)
+# 자바(JAVA) CLI 연락처 관리 프로그램(Address book management program)
+CRUD 핵심 기능 연락처 등록, 삭제, 수정, 검색 
 
-2023.01.06.
+__________________________________________
+최초작성-2023.01.06.
